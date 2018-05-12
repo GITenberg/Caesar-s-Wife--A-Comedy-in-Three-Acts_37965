@@ -1,0 +1,35 @@
+_repo: Caesar-s-Wife--A-Comedy-in-Three-Acts_37965
+_version: 0.1.0
+alternative_title: 'Caesar''s Wife: A Comedy in Three Acts'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maugham, W. Somerset (William Somerset)
+    aliases:
+    - Maugham, William Somerset
+    - Maugham, Somerset
+    birthdate: 1874
+    deathdate: 1965
+    gutenberg_agent_id: '126'
+    url: http://www.gutenberg.org/2009/agents/126
+    wikipedia: http://en.wikipedia.org/wiki/W._Somerset_Maugham
+description: ''
+gutenberg_issued: '2011-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37965'
+  lccn: '23000227'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British -- Egypt -- Drama'
+- !lcsh 'Married people -- Drama'
+- !lcsh 'Man-woman relationships -- Drama'
+- !lcsh 'English drama -- 20th century'
+- !lcc 'PR'
+title: 'Cæsar''s Wife: A Comedy in Three Acts'
+url: http://www.gutenberg.org/ebooks/37965
